@@ -1,4 +1,4 @@
-### rails
+# rails
 
 [ruby on rails 指南](http://guides.ruby-china.org/index.html)
 
