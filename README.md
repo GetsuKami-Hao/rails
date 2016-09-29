@@ -1,6 +1,6 @@
 
 # rails
-
+[Rails 信条](https://ruby-china.org/wiki/the-rails-doctrine)
 [ruby on rails 指南](http://guides.ruby-china.org/index.html)
 
 [应用ｒａｉｌｓ进行敏捷开发](https://book.douban.com/subject/1839273/)
