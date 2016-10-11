@@ -6,6 +6,8 @@
 
 [应用ｒａｉｌｓ进行敏捷开发](https://book.douban.com/subject/1839273/)
 
+[Ruby on Rails 實戰聖經](https://ihower.tw/rails4/index.html)
+
 ##版本控制学习
 [git pro](https://git-scm.com/book/zh/v2)(中文版)
 

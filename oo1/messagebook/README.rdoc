@@ -1,0 +1,33 @@
+== README
+
+This README would normally document whatever steps are necessary to get the
+application up and running.
+
+Things you may want to cover:
+
+* Ruby version
+
+* System dependencies
+
+* Configuration
+
+* Database creation
+create database messagebook_development
+#生成迁移文件
+1、rails generate migration CreateMessages 'name:string{100}' 'website_url:string{100}' body:text 'title:string{45}' 'reply:string{200}'
+2、rails generate migration CreateUsers 'name:string{100}' 'pass:string{100}'
+3、rail db:migrate  *执行迁移
+
+* Database initialization
+
+* How to run the test suite
+
+* Services (job queues, cache servers, search engines, etc.)
+
+* Deployment instructions
+
+* ...
+
+
+Please feel free to use a different markup language if you do not plan to run
+<tt>rake doc:app</tt>.
