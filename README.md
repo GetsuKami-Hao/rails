@@ -1,10 +1,10 @@
-
+[tutorialspoint](www.tutorialspoint.com)
 # rails
 [Rails 信条](https://ruby-china.org/wiki/the-rails-doctrine)
 
 [ruby on rails 指南](http://guides.ruby-china.org/index.html)
 
-[应用ｒａｉｌｓ进行敏捷开发](https://book.douban.com/subject/1839273/)
+[应用Rails进行敏捷开发](https://book.douban.com/subject/1839273/)
 
 [Ruby on Rails 實戰聖經](https://ihower.tw/rails4/index.html)
 
@@ -16,3 +16,4 @@
 ##ruby 学习
 
 [笨方法學 Ruby （繁体中文版）](http://lrthw.github.io/)
+
