@@ -1,7 +1,7 @@
-[tutorialspoint](www.tutorialspoint.com)
+[tutorialspoint 在线学习](www.tutorialspoint.com)
 # rails
 [Rails 信条](https://ruby-china.org/wiki/the-rails-doctrine)
-
+[Ruby on Rails Tutorial(中文版)](https://railstutorial-china.org/book/)
 [ruby on rails 指南](http://guides.ruby-china.org/index.html)
 
 [应用Rails进行敏捷开发](https://book.douban.com/subject/1839273/)
