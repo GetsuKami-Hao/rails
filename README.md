@@ -1,4 +1,4 @@
-[tutorialspoint 在线学习](www.tutorialspoint.com)
+[tutorialspoint 在线学习](http://www.tutorialspoint.com/)
 # rails
 [Rails 信条](https://ruby-china.org/wiki/the-rails-doctrine)
 
