@@ -19,6 +19,7 @@
 
 [笨方法學 Ruby （繁体中文版）](http://lrthw.github.io/)
 
-#github 遇到的问题
-	*rails g 命令无法使用<br \>
+#rails 遇到的问题
+
+* rails g 命令无法使用
 		先运行　spring stop,然后运行bin/spring就可以了
