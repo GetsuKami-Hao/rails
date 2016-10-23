@@ -19,6 +19,11 @@
 
 [笨方法學 Ruby （繁体中文版）](http://lrthw.github.io/)
 
+##进阶
+[ruby gem guide](http://guides.rubygems.org/make-your-own-gem/)
+
+[发布自己的gem](https://rubygems.org/)
+
 #rails 遇到的问题
 
 * rails g 命令无法使用
