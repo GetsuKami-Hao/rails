@@ -19,3 +19,17 @@
 		git pull origin master
 	----
 
+##heroku　的使用
+
+----
+1. 安装git
+2. 安装登陆heroku
+3. 创建应用
+4. git init
+5. git add 
+6. git commit 
+7. heroku create
+8. git push heroku master
+9. heroku open
+
+
