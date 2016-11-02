@@ -2,6 +2,8 @@
 # rails
 [Rails 信条](https://ruby-china.org/wiki/the-rails-doctrine)
 
+[Rails 从零开始](http://web.siwei.tech/part3_rails_premier/buyongxue.html)
+
 [Ruby on Rails Tutorial(中文版)](https://railstutorial-china.org/book/)
 
 [ruby on rails 指南](http://guides.ruby-china.org/index.html)
