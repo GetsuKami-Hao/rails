@@ -27,6 +27,5 @@
 [发布自己的gem](https://rubygems.org/)
 
 #rails 遇到的问题
-
 * rails g 命令无法使用
-		先运行　spring stop,然后运行bin/spring就可以了
+ * 先运行　spring stop,然后运行bin/spring就可以了
