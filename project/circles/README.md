@@ -13,9 +13,16 @@ To get started with the app, clone the repo and then install the needed gems:
 $ bundle install --without production
 ```
 
+Set database,modify root password
+
+```
+$ vi config/database.yml
+```
+
 Next, migrate the database:
 
 ```
+$ rails db:create
 $ rails db:migrate
 ```
 
