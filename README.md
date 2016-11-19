@@ -1,5 +1,5 @@
 [tutorialspoint 在线学习](http://www.tutorialspoint.com/)
-# rails
+# rails 
 [Rails 信条](https://ruby-china.org/wiki/the-rails-doctrine)
 
 [Rails 从零开始](http://web.siwei.tech/part3_rails_premier/buyongxue.html)
