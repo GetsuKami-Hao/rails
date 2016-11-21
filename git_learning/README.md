@@ -31,5 +31,6 @@
 7. heroku create
 8. git push heroku master
 9. heroku open
-
+10. heroku run rails db:migrate  //运行数据库迁移
+11. heroku run console --sandbox
 
